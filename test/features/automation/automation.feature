@@ -7,8 +7,6 @@ Feature: registration feature
         Given target page is open
 
     Scenario Outline: happy path
-
-
         When user fills account data
             | Email                       | Password   |
             | abc159qwe@automationdev.com | mnb369#bbb |

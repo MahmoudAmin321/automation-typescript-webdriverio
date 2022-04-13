@@ -1,4 +1,7 @@
 # automation-typescript-webdriverio
+
+Hint: This is just a proof of concept
+
 cucumber feature file -> test\features\automation\automation.feature
 
 step definition file -> test\features\step-definitions\automation\automation-step.ts
